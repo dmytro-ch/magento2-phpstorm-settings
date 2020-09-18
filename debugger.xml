@@ -2,7 +2,7 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general>
-      <unmute-on-stop>true</unmute-on-stop>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
       <debugger id="javascript">
